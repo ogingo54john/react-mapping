@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+.head1 {
+  text-align: center;
+  margin: auto;
+}
+.head2 {
+  text-align: center;
+  font-size: 20px;
+  text-decoration: underline;
+}
+.container {
+  background-color: gainsboro;
+  max-width: 300px;
+  max-height: 300px;
+  border-radius: 10px;
+}
+.entry {
+  font-weight: bold;
+  margin: 0px 0px 5px 10px;
+}
